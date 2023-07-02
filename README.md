@@ -1,1 +1,0 @@
-# django-income-expense-tracker
